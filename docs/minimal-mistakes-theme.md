@@ -20,13 +20,13 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ## Default posts
 
-- [Welcome to Jekyll](/docs/_posts/2019-04-18-welcome-to-jekyll.md)
-- [Post Link](/docs/_posts/2010-03-07-post-link.md)
-- [Post quote](/docs/_posts/2010-02-05-post-quote.md)
-- [Post Notice](/docs/_posts/2010-02-05-post-notice.md)
-- [Post Chat](/docs/_posts/2010-01-08-post-chat.md)
-- [Post Standard](/docs/_posts/2010-01-07-post-standard.md)
-- [Post Modified](/docs/_posts/2010-01-07-post-modified.md)
+- [Welcome to Jekyll](/docs/posts/2019-04-18-welcome-to-jekyll.md)
+- [Post Link](/docs/posts/2010-03-07-post-link.md)
+- [Post quote](/docs/posts/2010-02-05-post-quote.md)
+- [Post Notice](/docs/posts/2010-02-05-post-notice.md)
+- [Post Chat](/docs/posts/2010-01-08-post-chat.md)
+- [Post Standard](/docs/posts/2010-01-07-post-standard.md)
+- [Post Modified](/docs/posts/2010-01-07-post-modified.md)
 
 ## Troubleshooting
 
