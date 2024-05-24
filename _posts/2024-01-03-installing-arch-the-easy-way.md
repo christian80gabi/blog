@@ -1,5 +1,6 @@
 ---
 title: "Ditch the Manual: Installing Arch Linux the \"Easy\" Way with archinstall"
+last_modified_at: 2024-05-24T17:20:02-05:00
 featured-image: /assets/svg/Archlinux_Logo_Dark.svg
 featured-image-alt: Arch Linux Dark Logo
 categories:
@@ -28,23 +29,33 @@ Forget scouring online forums and memorizing convoluted commands. With `archinst
 2. **Boot Up**: Plug the USB into your target machine and boot it up.
 
 3. **Connect to the World**: Use `iwctl` to connect to your WiFi network and refresh the package keys with `pacman-keys --refresh-keys`.
+
 ```shell
 # ------------------------------
 # |             iwctl          |
 # ------------------------------
 
-$ iwctl 
-# ...
-$ device list  # show the list of devices
-# ...
-$ station wlan0 show # showing the device wlan0 status
-# ...
-$ station wlan0 scan  # start scanning with the device wlan0
-# ...
+$ iwctl
+
+# show the list of devices
+$ device list
+
+# showing the device wlan0 status
+$ station wlan0 show
+
+# start scanning with the device wlan0
+$ station wlan0 scan
+
+# Connect to you Wifi
 $ station wlan0 connect YourWifiSSID
-# ...
-$ quit # to leave iwctl
-``` 
+
+# to leave iwctl
+$ quit
+```
+
+Here is a tip:
+
+---
 
 ```shell
 # ------------------------------
