@@ -1,5 +1,5 @@
 ---
-title: "Linux: The Underdog OS Leaping into the Spotlight (and Your Wallet)"
+title: "Docker: The docker-compose project"
 last_modified_at: 2024-05-24T16:45:02-05:00
 categories:
   - Blog
