@@ -1,5 +1,7 @@
 ---
 title: "Linux vs. Windows, the Compatibility Conundrum: Why I Switched Back from Linux (and How to Avoid It)"
+featured-image: /assets/images/Linux_Windows.jpg
+featured-image-alt: "Linux vs Windows: Hardware compatibility"
 categories:
   - Blog
   - Linux
@@ -10,11 +12,11 @@ tags:
   - openSUSE
 ---
 
-![Post_Banner](/assets/images/linux-windows.jpg "Linux-Windows")
+![Post_Banner](/assets/images/Linux_Windows.jpg "Linux & Windows")
+
+Hey there.
 
 [Version en français](https://christian80gabi.github.io/blog/blog/linux/fran%C3%A7ais/linux-vs-windows-the-compatibility-conundrum-fr/)
-
-Hey there,
 
 After a year on Linux (OpenSUSE Tumbleweed) as my main OS. I learned that switching OS need a lot to take in consideration.  While I loved the experience,  a crucial factor ultimately brought me back to Windows 11: hardware compatibility. 
 
