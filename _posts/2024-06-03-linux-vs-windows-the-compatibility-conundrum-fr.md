@@ -1,7 +1,7 @@
 ---
 title: "Linux vs. Windows, compatibilité matérielle: Pourquoi je suis retourné sur Windows (et comment l'éviter)"
-featured-image: /assets/images/Linux_Windows.jpg
-featured-image-alt: "Linux vs Windows: Hardware compatibility"
+header:
+  teaser: "/assets/images/Linux_Windows.jpg"
 categories:
   - Blog
   - Linux
@@ -12,7 +12,7 @@ tags:
   - openSUSE
 ---
 
-![Post_Banner](/assets/images/Linux_Windows.jpg "Linux & Windows")
+{% include figure popup=true image_path="/assets/images/Linux_Windows.jpg" alt="Linux & Windows" caption="Post Banner" %}
 
 Hi there.
 
