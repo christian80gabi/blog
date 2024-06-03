@@ -1,7 +1,5 @@
 ---
 title: "Linux vs. Windows, the Compatibility Conundrum: Why I Switched Back from Linux (and How to Avoid It)"
-header:
-  teaser: "/assets/images/Linux_Windows.jpg"
 categories:
   - Blog
   - Linux
@@ -10,6 +8,12 @@ tags:
   - Linux
   - Open Source
   - openSUSE
+header:
+  image: /assets/images/Linux_Windows.jpg            # Twitter (use 'overlay_image')
+  overlay_image: /assets/images/Linux_Windows.jpg    # Article header at 2048x768
+  overlay_filter: 0.15
+  teaser: /assets/images/Linux_Windows.jpg   # Shrink image to 575x216
+  caption: "Banner"
 ---
 
 {% include figure popup=true image_path="/assets/images/Linux_Windows.jpg" alt="Linux & Windows" caption="Post Banner" %}
