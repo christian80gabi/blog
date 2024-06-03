@@ -10,6 +10,8 @@ tags:
   - openSUSE
 ---
 
+![Post_Banner](/assets/images/linux-windows.jpg "Linux-Windows")
+
 [Version en français](https://christian80gabi.github.io/blog/blog/linux/fran%C3%A7ais/linux-vs-windows-the-compatibility-conundrum-fr/)
 
 Hey there,
