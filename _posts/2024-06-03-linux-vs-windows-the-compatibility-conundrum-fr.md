@@ -10,9 +10,9 @@ tags:
   - openSUSE
 ---
 
-Hi.
-
 [English Version](https://christian80gabi.github.io/blog/blog/linux/english/linux-vs-windows-the-compatibility-conundrum/)
+
+Hi there.
 
 Après une année de relation passionnée avec Linux (OpenSUSE Tumbleweed) comme OS principal, j'ai réalisé que changer de système d'exploitation demandait plus de réflexion que de changer de chaussettes. Bon, j'avoue, j'ai adoré l'expérience. Mais un facteur crucial m'a finalement ramené vers Windows 11 : la compatibilité matérielle. C'est un peu comme quand on craque pour quelqu'un en vacances, mais de retour à la maison, on se rend compte qu'il ne supporte pas votre chat (ou inversement). 
 
