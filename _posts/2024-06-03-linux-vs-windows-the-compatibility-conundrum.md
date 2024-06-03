@@ -1,7 +1,9 @@
 ---
 title: "Linux vs. Windows, the Compatibility Conundrum: Why I Switched Back from Linux (and How to Avoid It)"
-featured-image: /assets/images/Linux_Windows.jpg
-featured-image-alt: "Linux vs Windows: Hardware compatibility"
+header:
+  teaser: "/assets/images/Linux_Windows.jpg"
+  featured-image: /assets/images/Linux_Windows.jpg
+  featured-image-alt: "Linux vs Windows: Hardware compatibility"
 categories:
   - Blog
   - Linux
