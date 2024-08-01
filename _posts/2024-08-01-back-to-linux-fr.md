@@ -10,8 +10,8 @@ tags:
   - openSUSE
   - Windows
 header:
-  image: /assets/images/2024-07-01/back_to_linux_1.png              # Twitter (use 'overlay_image')
-  teaser: /assets/images/2024-07-01/back_to_linux_5.png   # Shrink image to 575x216
+  image: /assets/images/2024-08-01/back_to_linux_5.png    # Twitter (use 'overlay_image')
+  teaser: /assets/images/2024-08-01/back_to_linux_1.png   # Shrink image to 575x216
   caption: "Back to Linux: created with Bing Creator"
 ---
 
