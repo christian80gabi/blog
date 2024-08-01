@@ -35,7 +35,7 @@ De plus, ma semaine sur Windows n'a pas été de tout repos. Un incident majeur 
 
 ### Explorations sous Linux
 
-Durant cette période, j'ai exploré différentes distributions Linux : Manjaro, Fedora, et même Arch Linux. Arch Linux, en particulier, a été une révélation. Il m'a permis de comprendre que mon problème de WiFi venait du "Active-State Power Management". Les drivers sous Linux peuvent réduire la puissance pour économiser l'énergie. En désactivant le mode "powersave" pour ma carte WiFi, j'ai enfin pu me connecter au réseau. Un autre obstacle s'est présenté : mon réseau domestique ne fonctionnait toujours pas. Après quelques recherches, j'ai remplacé le bon vieux "wpa_supplicant" par "iwd", une solution plus moderne, et tout fonctionnait parfaitement.
+Durant cette période, j'ai exploré différentes distributions Linux : Manjaro, Fedora, et même Arch Linux. Arch Linux, en particulier, a été une révélation. Il m'a permis de comprendre que mon problème de WiFi venait du "Active-State Power Management". Les drivers sous Linux peuvent réduire la puissance pour économiser l'énergie. En désactivant le mode "powersave" pour ma carte WiFi, j'ai enfin pu me connecter au réseau. Un autre obstacle s'est présenté : mon réseau domestique ne fonctionnait toujours pas. Après quelques recherches, j'ai remplacé le bon vieux "**wpa_supplicant**" par "**iwd**", une solution plus moderne, et tout fonctionnait parfaitement.
 
 #### Désactiver "powersave" pour ma carte WIFI
 
