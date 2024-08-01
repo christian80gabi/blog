@@ -3,7 +3,7 @@ title: "Retour à Linux : Mon Voyage d'Aller-Retour"
 categories:
   - Blog
   - Linux
-  - English
+  - Français
 tags:
   - Linux
   - Open Source
