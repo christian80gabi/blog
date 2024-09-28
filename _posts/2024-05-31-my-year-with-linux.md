@@ -1,13 +1,15 @@
 ---
 title: "From Tux to Windows: My Year with Linux OpenSUSE Tumbleweed (and Why I'm Back - For Now)"
 categories:
-  - Blog
   - Linux
   - English
 tags:
   - Linux
   - Open Source
   - openSUSE
+header:
+  image: /assets/images/linux_experience.png
+  teaser: /assets/images/linux_experience.png
 ---
 
 I've spent the past year using Linux, specifically OpenSUSE Tumbleweed, as my daily driver on my Lenovo IDEAPAD S540 (81ND) laptop. This experience has been both rewarding and challenging, and as I transition back to Windows, I'd like to share my journey and the reasons behind my decision.

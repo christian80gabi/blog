@@ -1,7 +1,6 @@
 ---
 title: "Linux vs. Windows, compatibilité matérielle: Pourquoi je suis retourné sur Windows (et comment l'éviter)"
 categories:
-  - Blog
   - Linux
   - Français
 tags:
@@ -10,21 +9,17 @@ tags:
   - openSUSE
 header:
   image: /assets/images/Linux_Windows.jpg            # Twitter (use 'overlay_image')
-  overlay_image: /assets/images/Linux_Windows.jpg    # Article header at 2048x768
-  overlay_filter: 0.15
   teaser: /assets/images/Linux_Windows.jpg   # Shrink image to 575x216
-  caption: "Banner"
+  caption: "Created with Bing Creator"
 ---
 
-{% include figure popup=true image_path="/assets/images/Linux_Windows.jpg" alt="Linux & Windows" caption="Post Banner" %}
+Salut !
 
-Hi there.
-
-[English Version](https://christian80gabi.github.io/blog/blog/linux/english/linux-vs-windows-the-compatibility-conundrum/)
+[English Version](https://christian80gabi.github.io/blog/linux/english/linux-vs-windows-the-compatibility-conundrum/)
 
 Après une année de relation passionnée avec Linux (OpenSUSE Tumbleweed) comme OS principal, j'ai réalisé que changer de système d'exploitation demandait plus de réflexion que de changer de chaussettes. Bon, j'avoue, j'ai adoré l'expérience. Mais un facteur crucial m'a finalement ramené vers Windows 11 : la compatibilité matérielle. C'est un peu comme quand on craque pour quelqu'un en vacances, mais de retour à la maison, on se rend compte qu'il ne supporte pas votre chat (ou inversement). 
 
-Dans mon [dernier article](https://christian80gabi.github.io/blog/blog/linux/english/my-year-with-linux/), j'avais promis de prendre la compatibilité matérielle plus au sérieux. Aujourd'hui, je partage des ressources pour vérifier la compatibilité avant d'acheter un nouvel ordinateur portable pour Linux.
+Dans mon [dernier article](https://christian80gabi.github.io/blog/linux/english/my-year-with-linux/), j'avais promis de prendre la compatibilité matérielle plus au sérieux. Aujourd'hui, je partage des ressources pour vérifier la compatibilité avant d'acheter un nouvel ordinateur portable pour Linux.
 
 **Leçon apprise : Pourquoi la compatibilité est importante**
 
