@@ -1,7 +1,6 @@
 ---
 title: "From Tux to Windows: My Year with Linux OpenSUSE Tumbleweed (and Why I'm Back - For Now)"
 categories:
-  - Blog
   - Linux
   - English
 tags:

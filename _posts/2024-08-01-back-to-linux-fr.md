@@ -1,7 +1,6 @@
 ---
 title: "Retour à Linux : Mon Voyage d'Aller-Retour"
 categories:
-  - Blog
   - Linux
   - Français
 tags:
@@ -20,7 +19,7 @@ Salut ! Je suis de retour sur Linux. Eh oui, après seulement une semaine sous W
 
 ### Pourquoi j'avais quitté Linux pour Windows
 
-Il y a une semaine (depuis cet [article](https://christian80gabi.github.io/blog/blog/linux/english/my-year-with-linux/)), j'avais fait le grand saut vers Windows pour plusieurs raisons, principalement :
+Il y a une semaine (depuis cet [article](https://christian80gabi.github.io/blog/linux/english/my-year-with-linux/)), j'avais fait le grand saut vers Windows pour plusieurs raisons, principalement :
 
 - **Problèmes de connexion WiFi** : Mon adaptateur WiFi (RTL8822BE PCI) ne fonctionnait pas correctement sous Linux, et je n'avais pas trouvé de solution à ce problème à ce moment-là.
 - **Expérience de jeu médiocre** : En tant que "casual gamer", il était frustrant de voir que certains jeux, conçus principalement pour Windows, ne fonctionnaient pas de manière optimale sous Linux, même avec des solutions comme Wine ou Proton via Steam.

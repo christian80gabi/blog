@@ -2,7 +2,6 @@
 title: "Linux: The Underdog OS Leaping into the Spotlight (and Your Wallet)"
 last_modified_at: 2024-05-24T16:20:02-05:00
 categories:
-  - Blog
   - Linux
   - English
 tags:

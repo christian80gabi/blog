@@ -1,19 +1,20 @@
 ---
 title: "Ditch the Manual: Installing Arch Linux the \"Easy\" Way with archinstall"
-last_modified_at: 2024-05-24T17:20:02-05:00
-featured-image: /assets/svg/Archlinux_Logo_Dark.svg
-featured-image-alt: Arch Linux Dark Logo
+last_modified_at: 2024-09-28T23:21:20
 categories:
-  - Blog
   - Linux
   - English
 tags:
   - Linux
   - Open Source
   - Arch Linux
+header:
+  image: /assets/svg/Archlinux_Logo_Dark.svg
+  teaser: /assets/svg/Archlinux_Logo_Dark.svg
+  caption: "Arch Linux Dark Logo"
 ---
 
-![Arch_Linux_Logo](/assets/svg/Archlinux_Logo_Dark.svg "Arch Linux logo")
+<!-- ![Arch_Linux_Logo](/assets/svg/Archlinux_Logo_Dark.svg "Arch Linux logo") -->
 
 Arch Linux. The name itself sends shivers down the spines of some, conjuring images of cryptic text files and hours spent wrestling with the command line. But what if I told you there was a way to experience the Arch magic without the steep learning curve? A streamlined installation process, guided by a friendly script, ready to go right on your Arch ISO? Introducing `archinstall`, the hidden gem waiting to be unleashed.
 

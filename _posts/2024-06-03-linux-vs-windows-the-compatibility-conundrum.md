@@ -1,7 +1,6 @@
 ---
 title: "Linux vs. Windows, the Compatibility Conundrum: Why I Switched Back from Linux (and How to Avoid It)"
 categories:
-  - Blog
   - Linux
   - English
 tags:
@@ -10,21 +9,19 @@ tags:
   - openSUSE
 header:
   image: /assets/images/Linux_Windows.jpg            # Twitter (use 'overlay_image')
-  overlay_image: /assets/images/Linux_Windows.jpg    # Article header at 2048x768
-  overlay_filter: 0.15
+  # overlay_image: /assets/images/Linux_Windows.jpg    # Article header at 2048x768
+  # overlay_filter: 0.15
   teaser: /assets/images/Linux_Windows.jpg   # Shrink image to 575x216
   caption: "Banner"
 ---
 
-{% include figure popup=true image_path="/assets/images/Linux_Windows.jpg" alt="Linux & Windows" caption="Post Banner" %}
+Hey there!
 
-Hey there.
-
-[Version en français](https://christian80gabi.github.io/blog/blog/linux/fran%C3%A7ais/linux-vs-windows-the-compatibility-conundrum-fr/)
+[Version en français](https://christian80gabi.github.io/blog/linux/fran%C3%A7ais/linux-vs-windows-the-compatibility-conundrum-fr/)
 
 After a year on Linux (OpenSUSE Tumbleweed) as my main OS. I learned that switching OS need a lot to take in consideration.  While I loved the experience,  a crucial factor ultimately brought me back to Windows 11: hardware compatibility. 
 
-In my [last post](https://christian80gabi.github.io/blog/blog/linux/english/my-year-with-linux/), I mentioned taking hardware compatibility more seriously.  Today, I'm sharing some resources to help you check compatibility before buying a new laptop for Linux. 
+In my [last post](https://christian80gabi.github.io/blog/linux/english/my-year-with-linux/), I mentioned taking hardware compatibility more seriously.  Today, I'm sharing some resources to help you check compatibility before buying a new laptop for Linux. 
 
 **Learning from Experience: Why Compatibility Matters**
 
