@@ -17,7 +17,9 @@ This morning, shiny was the sun ☀. Windows is sipping its coffee and Linux as 
 
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244422070447595520" height="2057" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<div>
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244422070447595520" height="2057" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
 
 ---
 
