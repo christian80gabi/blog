@@ -9,6 +9,9 @@ tags:
   - Open Source
   - openSUSE
   - Arch Linux
+header:
+  image: /assets/images/linux.png
+  teaser: /assets/images/linux.png
 ---
 
 In the realm of operating systems, Windows and macOS often dominate the headlines, casting a long shadow over a powerful contender quietly making waves: Linux. This underrated and often misunderstood, completely free OS has carved its niche, powering everything from supercomputers to smartphones (yes, Android is Linux-based!). Today, we'll crack open the door to the world of Linux, exploring its historical rise, the major free and open-source software (FOSS) solutions it unlocks, and why you should consider giving this versatile underdog a try.
