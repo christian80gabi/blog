@@ -6,6 +6,7 @@ categories:
 tags:
   - Linux
   - Open Source
+  - OS chatting
 header:
   image: /assets/images/ArchLinux.Ubuntu.Chatting.png
   teaser: /assets/images/ArchLinux.Ubuntu.Chatting.png
@@ -13,10 +14,6 @@ header:
 ---
 
 This morning, shiny was the sun ☀. Ubuntu is sipping its green tea and Arch Linux as always is typing at a terminal also sipping its strong black coffee. ☻
-
----
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244713852930551809" height="1742" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
@@ -55,6 +52,12 @@ This morning, shiny was the sun ☀. Ubuntu is sipping its green tea and Arch Li
 ---
 
 **The end.** ❤
+
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244713852930551809" height="1742" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
 
 Hope that gave you a laugh!
 ---

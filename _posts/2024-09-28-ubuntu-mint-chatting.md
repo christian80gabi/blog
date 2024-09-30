@@ -1,11 +1,12 @@
 ---
-title: "What if: Ubuntu and (Linux) Mint had a conversation (today)?"
+title: "What if: Ubuntu and Linux Mint had a conversation (today)?"
 categories:
   - Linux
   - Français
 tags:
   - Linux
   - Open Source
+  - OS chatting
 header:
   image: /assets/images/Ubuntu.LinuxMint.png
   teaser: /assets/images/Ubuntu.LinuxMint.png
@@ -13,10 +14,6 @@ header:
 ---
 
 Et ce matin, était rayonnant le soleil ☀. Ubuntu sirotait son café et vint le rejoindre le jeune tout gaiement, Linux Mint. ☻
-
----
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7245908559526322177" height="650" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
@@ -53,6 +50,12 @@ Et ce matin, était rayonnant le soleil ☀. Ubuntu sirotait son café et vint l
 ---
 
 **The end.** ❤
+
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7245908559526322177" height="650" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
 
 J'espère que cette petite discussion t’a fait sourire !
 ---

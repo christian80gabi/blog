@@ -6,9 +6,10 @@ categories:
 tags:
   - Linux
   - Open Source
+  - OS chatting
 header:
-  image: /assets/images/linux_experience.png
-  teaser: /assets/images/linux_experience.png
+  image: /assets/images/Ubuntu.Debian.png
+  teaser: /assets/images/Ubuntu.Debian.02.png
   caption: "Debian - Ubuntu Chatting"
 ---
 
@@ -47,6 +48,12 @@ Et ce matin, était rayonnant le soleil ☀. Debian sirotait son thé noir et vi
 ---
 
 **The end.** ❤
+
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7246640930387021824" height="587" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
 
 Une petite conversation entre Ubuntu, l'enfant énergique, et Debian, le parent sage et patient. J'espère que ça t'a plu !
 ---
