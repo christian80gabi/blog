@@ -7,6 +7,7 @@ tags:
   - Linux
   - Open Source
   - Windows
+  - OS chatting
 header:
   image: /assets/images/Windows.Linux.Chatting.png
   teaser: /assets/images/Windows.Linux.Chatting.png
@@ -14,12 +15,6 @@ header:
 ---
 
 This morning, shiny was the sun ☀. Windows is sipping its coffee and Linux as always is typing at a terminal. ☻
-
----
-
-<div>
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244422070447595520" height="2057" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</div>
 
 ---
 
@@ -62,3 +57,12 @@ This morning, shiny was the sun ☀. Windows is sipping its coffee and Linux as 
 ---
 
 **The end.** ❤
+
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244422070447595520" height="2057" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
+
+Hope that gave you a laugh!
+---
