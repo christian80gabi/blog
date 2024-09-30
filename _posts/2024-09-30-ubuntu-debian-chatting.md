@@ -8,8 +8,8 @@ tags:
   - Open Source
   - OS chatting
 header:
-  image: /assets/images/Ubuntu.Debian.png
-  teaser: /assets/images/Ubuntu.Debian.02.png
+  image: /assets/images/Ubuntu.Debian.02.png
+  teaser: /assets/images/Ubuntu.Debian.png
   caption: "Debian - Ubuntu Chatting"
 ---
 
