@@ -7,3 +7,8 @@ Here is my personal blog, where I share my discoveries along my tech journey.
 - Jekyll
     - [minimal-mistakes-theme](/docs/minimal-mistakes-theme.md)
 - GitHub Pages
+
+
+## License
+
+[Attribution NonCommercial NoDerivatives 4.0 International](LICENSE)
